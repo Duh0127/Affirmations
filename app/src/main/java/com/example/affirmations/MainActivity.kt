@@ -22,5 +22,4 @@ class MainActivity : AppCompatActivity() {
         // in content do not change the layout size of the RecyclerView
         recyclerView.setHasFixedSize(true)
     }
-}d:
-        
+}
